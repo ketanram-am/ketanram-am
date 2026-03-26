@@ -1,6 +1,7 @@
 <!-- ============================================================
      KETAN'S GITHUB README  —  ketanram-am
      ============================================================ -->
+<img src="pixel-art.svg" width="320" alt="Pixel Art" />
 
 <div align="center">
 
