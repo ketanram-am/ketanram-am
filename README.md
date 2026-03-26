@@ -117,13 +117,13 @@
 
 ```javascript
 const ketan = {
-  name        : "Ketan Ramamara",
+  name        : "Ketan Ram Amara",
   role        : "Fullstack + AI/ML Developer",
   location    : "India 🇮🇳",
   email       : "ketanramamara123@gmail.com",
   passion     : "Building projects that solve real problems",
   currentFocus: ["Making projects smarter", "Clean architecture", "AI integration"],
-  funFact     : "I debug with coffee ☕ and curiosity 🔍"
+  funFact     : "I debug with chocolate ☕ and curiosity 🔍"
 };
 ```
 
